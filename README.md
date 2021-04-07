@@ -1,2 +1,2 @@
 # Python
-this is 说明 可选
+2021/04/07 初学github 
